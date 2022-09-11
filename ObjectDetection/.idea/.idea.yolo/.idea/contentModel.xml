@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Keyhan\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_yolo.-1772144898.00" t="ExcludeRecursive" />
+    <e p="D:\My Documents\Desktop\yolo" t="IncludeRecursive">
+      <e p="assets" t="Include">
+        <e p="images" t="Include">
+          <e p="image10" t="Include" />
+          <e p="image2.jpg" t="Include" />
+          <e p="image3.jpg" t="Include" />
+          <e p="image4.jpg" t="Include" />
+        </e>
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DataStructures" t="Include">
+        <e p="ImageNetData.cs" t="Include" />
+        <e p="ImageNetPrediction.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="ObjectDetection.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ObjectDetection.csproj" t="IncludeRecursive" />
+      <e p="OnnxModelScorer.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="yolo.sln" t="IncludeFlat" />
+      <e p="YoloModel" t="Include">
+        <e p="TinyYolo2_model.onnx" t="Include" />
+      </e>
+      <e p="YoloParser" t="Include">
+        <e p="YoloBoundingBox.cs" t="Include" />
+        <e p="YoloWinMlParser.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

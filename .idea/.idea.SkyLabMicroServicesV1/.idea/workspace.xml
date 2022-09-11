@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93911e67-3c13-45ce-a567-7a7454735f56" name="Default" comment="trying to convert models to protobuf format with protobuf-net">
+      <change afterPath="$PROJECT_DIR$/ApiGateway/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HostVersion/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedArea/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedArea/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperPeer/obj/Debug/netcoreapp3.0/.NETCoreApp,Version=v3.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SuperPeer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyLabMicroServicesV1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyLabMicroServicesV1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyLabMicroServicesV1/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyLabMicroServicesV1/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SkyLabMicroServicesV1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SkyLabMicroServicesV1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/obj/ApiGateway.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/obj/ApiGateway.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/obj/ApiGateway.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/obj/ApiGateway.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/obj/Debug/netcoreapp3.0/ApiGateway.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/obj/Debug/netcoreapp3.0/ApiGateway.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/obj/Debug/netcoreapp3.0/ApiGateway.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/obj/Debug/netcoreapp3.0/ApiGateway.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/obj/DataIndexerPeer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/DataIndexerPeer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/obj/DataIndexerPeer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/DataIndexerPeer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/obj/Debug/netcoreapp3.0/DataIndexerPeer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/Debug/netcoreapp3.0/DataIndexerPeer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/obj/Debug/netcoreapp3.0/DataIndexerPeer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/Debug/netcoreapp3.0/DataIndexerPeer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataIndexerPeer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataIndexerPeer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/obj/DataKeeperPeer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/DataKeeperPeer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/obj/DataKeeperPeer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/DataKeeperPeer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/obj/Debug/netcoreapp3.0/DataKeeperPeer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/Debug/netcoreapp3.0/DataKeeperPeer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/obj/Debug/netcoreapp3.0/DataKeeperPeer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/Debug/netcoreapp3.0/DataKeeperPeer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataKeeperPeer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataKeeperPeer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/HostVersion" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/HostVersion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/HostVersion.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/HostVersion.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/HostVersion.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/Debug/netcoreapp3.0/HostVersion.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/HostVersion.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/HostVersion.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/HostVersion.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/HostVersion.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HostVersion/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HostVersion/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectDetection/obj/Debug/netcoreapp3.0/ObjectDetection.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectDetection/obj/Debug/netcoreapp3.0/ObjectDetection.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectDetection/obj/ObjectDetection.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectDetection/obj/ObjectDetection.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectDetection/obj/ObjectDetection.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectDetection/obj/ObjectDetection.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectDetection/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectDetection/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectDetection/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectDetection/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedArea/obj/Debug/netcoreapp3.0/SharedArea.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/obj/Debug/netcoreapp3.0/SharedArea.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedArea/obj/Debug/netcoreapp3.0/SharedArea.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/obj/Debug/netcoreapp3.0/SharedArea.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedArea/obj/SharedArea.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/obj/SharedArea.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedArea/obj/SharedArea.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/obj/SharedArea.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedArea/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedArea/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SharedArea/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperPeer/obj/Debug/netcoreapp3.0/SuperPeer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPeer/obj/Debug/netcoreapp3.0/SuperPeer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperPeer/obj/SuperPeer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPeer/obj/SuperPeer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperPeer/obj/SuperPeer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPeer/obj/SuperPeer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperPeer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPeer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperPeer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPeer/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/ContactController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/MessageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/NotifController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/PulseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7490AB70-FF48-4FB0-B324-CC8411CFAF34/1/NewtonsoftJsonProtocolDependencyInjectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/FileController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/ComplexController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/BotController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/AppController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/InviteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/RoomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/IResponder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/IConsumerAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/AnswerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/IResponderAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/ConsumeContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Answerable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/GlobalVariables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/IConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Requests/Pulse/BotViewResizedResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Requests/Pulse/BotViewResizedRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Requests/Pulse/AnimateBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Requests/Answers/AnswerIndexEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Forms/AudioUF.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Forms/PhotoUF.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/ConnStringGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/ProtoDeserializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Forms/VideoUF.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/HttpUploader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/KafkaExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/ProtoSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/MessageConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Utils/AuthExtracter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Middles/Packet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Middles/ModuleRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Middles/SqlResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Middles/ModuleResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Middles/SqlCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Middles/ReqAuth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/SessionUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/AppCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/BasePack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/WorkershipUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/InviteCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/UserCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/InviteAcceptedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/BotSubscribedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/UserProfileUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/PhotoCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/MembershipCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ComplexProfileUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/SessionCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ModulePermissionCreated.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/Notification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ContactCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/DeleteSessionsNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ComplexDeletionNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/MessageCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/LogoutNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/AudioCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ModuleCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/DocumentCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Entities/AudioMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/AccountDeletedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/WorkershipDeletedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/RunPusherNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/PendingCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/BotProfileUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/EntitiesVersionUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/MemberAccessUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/BotCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/RoomDeletionNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/RoomCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/InviteCancelledNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/RoomCreatedSpecificNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/BotScreenShotCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ComplexCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/BotScreenShotRemovedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/InviteIgnoredNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/ModuleProfileUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/WorkershipCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/RoomProfileUpdatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/VideoCreatedNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/TextAppendedToDocumentNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Notifs/MessageSeenNotif.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/UserClickedBotViewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/InviteCancellationPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/InviteIgnoredPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/ComplexDeletionPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/TextMessagePush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotRemovationFromRoomPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/MessageSeenPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/RoomCreationPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotUpdatedBotViewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/InviteAcceptancePush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/UserRequestedBotPreviewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/InviteCreationPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/Push.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/UserRequestedBotViewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/PhotoMessagePush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/ServiceMessagePush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotPropertiesChangedPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Consumers/ApiGatewayConsumerAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotAnimatedBotViewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotSentBotViewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Wrappers/MessageWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotAdditionToRoomPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/RoomDeletionPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/VideoMessagePush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/DbContexts/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/MemberAccessUpdatedPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/ModulePermissionGrantedPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/DbContexts/StreamRepo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/UserJointComplexPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/ContactCreationPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/SharedArea/AnswerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/AudioMessagePush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Pushes/BotRanCommandsOnBotViewPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/SharedArea/IResponderAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/ReqRes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Controllers/PulseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Request.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Controllers/FileController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/App/CreateAppRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/App/CreateAppResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Controllers/BotController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Controllers/AppController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotAnimatedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetWorkershipsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/RemoveBotFromRoomRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/UpdateBotProfileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetBotStoreContentResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/AddBotToRoomResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/CreateBotResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetBotsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/SearchBotsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetBotRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetSubscribedBotsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/CreateBotRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotLoadedNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetWorkershipsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotSentBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetBotResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetCreatedBotsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/SubscribeBotRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotPropertiesChangedNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/SearchBotsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotRanCommandsOnBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/UpdateWorkershipResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotUpdatedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/SubscribeBotResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/RemoveBotFromRoomResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/AudioMessageNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/UpdateBotProfileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/UserRequestedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetBotStoreContentRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/UpdateWorkershipRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetSubscribedBotsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/BotViewResizedNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Notifications/Notification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/AddBotToRoomRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/RegisterRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/LogoutResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetBotsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Bot/GetCreatedBotsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/LoginRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/KafkaTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/VerifyRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/PhotoIndexerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/LogoutRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/RegisterResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/DeleteAccountRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/DeleteAccountResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/LoginResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Auth/VerifyResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadFileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/MongoLayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/UploadAudioRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/QuestionConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotExecuteMongoComOnMongoFileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/NotifConsumerAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadUserAvatarRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/Security.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/UploadPhotoRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotAppendTextToTxtFileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/UploadPhotoResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/GetFileSizeRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataKeeperPeer/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotExecuteMongoComOnMongoFileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadRoomAvatarResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotAppendTextToTxtFileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/WriteToFileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/GetFileSizeResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadBotAvatarResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotExecuteSqlOnSqlFileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/UploadAudioResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotExecuteSqlOnSqlFileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadUserAvatarResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadComplexAvatarRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/UploadVideoRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/UploadVideoResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadBotAvatarRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadRoomAvatarRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/WriteToFileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/CreateDocumentRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadFileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/DownloadComplexAvatarResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/DeleteRoomResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/UpdateRoomProfileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/CreateDocumentResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/File/BotCreateDocumentFileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/UpdateRoomProfileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/GetRoomsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/GetRoomByIdResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/CreateRoomRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/CreateRoomResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/DeleteRoomRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/GetRoomByIdRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Room/GetRoomsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/SearchUsersRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/GetUserByIdRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/UpdateUserProfileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/UpdateUserProfileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/SearchUsersResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/GetUserByIdResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/GetMeRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/User/GetMeResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/RequestBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/RunCommandsOnBotViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/RequestBotViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/SendBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/AnimateBotViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/UpdateBotViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/ClickBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/RunCommandsOnBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/AnimateBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/SendBotViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/UpdateBotViewResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Pulse/ClickBotViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/CancelInviteRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/IgnoreInviteResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/AcceptInviteRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/IgnoreInviteRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/CreateInviteResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/AcceptInviteResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/CancelInviteResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/GetMyInvitesResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/RequestModuleResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/RequestModuleRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/GetMyInvitesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Invite/CreateInviteRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/BotPermitModuleRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/CreateModuleRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/SearchModulesResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/UpdateModuleProfileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/BotPermitModuleResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/SearchModulesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/UpdateModuleProfileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Module/CreateModuleResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Answers/AnswerRemoveBotScreenShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Answers/AnswerAddBotScreenShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Answers/AnswerIndexEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Answers/AnswerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/DeleteComplexRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/GetComplexByIdResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/GetComplexAccessesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Answers/AnswerRequestBotPreview.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/SearchComplexesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/UpdateComplexProfileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/GetComplexByIdRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/UpdateComplexProfileRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/DeleteComplexResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/UpdateMemberAccessResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/BotGetWorkershipsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/CreateComplexRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/BotGetWorkershipsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/SearchComplexesResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/GetComplexAccessesResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/GetComplexesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Contact/CreateContactResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/GetComplexesResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/UpdateMemberAccessRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Complex/CreateComplexResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/CreateFileMessageResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Contact/GetContactsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Contact/GetContactsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Contact/CreateContactRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/GetMessagesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/GetMessageSeenCountRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/GetLastActionsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/CreateTextMessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/CreateFileMessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/BotCreateTextMessageResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/CreateTextMessageResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/GetLastActionsRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/NotifyMessageSeenRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/BotCreateTextMessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/BotCreateFileMessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/GetMessageSeenCountResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/PutServiceMessageResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/NotifyMessageSeenResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/GetMessagesResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Message/BotCreateFileMessageResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/ConsolidateSessionResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/GetComplexWorkersRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/PutServiceMessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Questions/AskRequestBotPreview.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/ConsolidateSessionRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/GetModuleServerAddressRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Internal/GetComplexWorkersResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Questions/AskRemoveBotScreenShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Questions/AskIndexEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Questions/AskAddBotScreenShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Commands/Requests/Questions/AskTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/ModuleSecret.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotStoreBot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/App.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Session.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/AudioMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/ModuleCreation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/ModulePermission.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotCreation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotStoreSection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/VideoMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/ServiceMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Photo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Complex.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Document.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotStoreHeader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotSubscription.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/FileUsage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotScreenShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Pending.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/MessageSeen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotStoreBanner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/UserSecret.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Version.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Workership.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Contact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Invite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BotSecret.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Tag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Module.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BaseUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Bot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/BaseRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/SingleRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/MemberAccess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Membership.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Audio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/File.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Video.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/PhotoMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/ComplexSecret.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/TextMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/FileTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Wrappers/MessageWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Wrappers/WrapperType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Entities/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/InviteCreationNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotRanCommandsOnBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/ModulePermissionGrantedNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/DbContexts/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/InviteCancellationNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotRemovationFromRoomNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/InviteAcceptanceNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/RoomCreationNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/RoomDeletionNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/ComplexDeletionNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotUpdatedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/TextMessageNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/InviteIgnoranceNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/VideoMessageNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/MemberAccessUpdatedNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotPropertiesChangedNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/UserRequestedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/ContactCreationNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/UserJointComplexNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/AudioMessageNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/Notification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/UserRequestedBotPreviewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotSentBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotAdditionToRoomNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/UserClickedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/BotAnimatedBotViewNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/PhotoMessageNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/ServiceMessageNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharedArea/Notifications/MessageSeenNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/IdGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/PhotoIndexerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/RawDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/MySqlDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/KafkaExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/QuestionConsumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/KafkaTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataIndexerPeer/KafkaTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataIndexerPeer/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataIndexerPeer/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataIndexerPeer/RawDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataIndexerPeer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataIndexerPeer/Consumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ObjectDetection/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperPeer/KafkaTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperPeer/KafkaExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperPeer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperPeer/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SuperPeer/Consumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ObjectDetection/YoloParser/YoloWinMlParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/KafkaTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/KafkaGatewayExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Hubs/NotificationsHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Utils/HttpUploader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Utils/ConnStringGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Utils/AuthExtracter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Utils/Pusher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Models/NotifierStreamResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Middles/Packet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Pushes/BotLoadedPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Pushes/BotViewResizedPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Pushes/BotPropertiesChangedPush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Requests/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Utils/Pusher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Hubs/NotificationsHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Utils/UppercaseContractResolver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Utils/Security.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Utils/VersionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Models/PusherPacket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Models/Forms/TakeFileDSF.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/DbContexts/MongoLayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Consumers/ApiGatewayConsumerAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HostVersion/Commands/Requests/File/UploadPhotoRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/Controllers/ModuleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ApiGateway/DbContexts/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ApiGateway/Consumers/ApiGatewayConsumerAsync.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Commands/Pushes/UserRequestedBotPreviewPush.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Commands/Requests/Answers/AnswerRequestBotPreview.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Commands/Requests/Questions/AskRequestBotPreview.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Notifications/UserRequestedBotPreviewNotification.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Commands/Requests/Request.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Commands/Requests/Response.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Notifications/Notification.cs" />
+        <option value="$PROJECT_DIR$/SharedArea/Commands/Pushes/Push.cs" />
+        <option value="$PROJECT_DIR$/DataKeeperPeer/QuestionConsumer.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Hubs/NotificationsHub.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Controllers/AppController.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/KafkaGatewayExtension.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/NotifConsumerAsync.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/KafkaExtension.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/IdGenerator.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/KafkaTransport.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Program.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/DbContexts/DatabaseContext.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Controllers/FileController.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Commands/Pushes/BotLoadedPush.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/HostVersion.csproj" />
+        <option value="$PROJECT_DIR$/DataKeeperPeer/DataKeeperPeer.csproj" />
+        <option value="$PROJECT_DIR$/DataIndexerPeer/DataIndexerPeer.csproj" />
+        <option value="$PROJECT_DIR$/ApiGateway/ApiGateway.csproj" />
+        <option value="$PROJECT_DIR$/ObjectDetection/ObjectDetection.csproj" />
+        <option value="$PROJECT_DIR$/SharedArea/SharedArea.csproj" />
+        <option value="$PROJECT_DIR$/SuperPeer/SuperPeer.csproj" />
+        <option value="$PROJECT_DIR$/ApiGateway/Startup.cs" />
+        <option value="$PROJECT_DIR$/ApiGateway/KafkaGatewayExtension.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Commands/Pushes/BotViewResizedPush.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Commands/Notifs/BotViewResizedNotif.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Commands/Requests/Pulse/BotViewResizedResponse.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Commands/Requests/Pulse/BotViewResizedRequest.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Controllers/PulseController.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Utils/Pusher.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/BotViewResizedNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Middles/Packet.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/UserRequestedBotViewNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/BotSentBotViewNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Controllers/BotController.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/BotLoadedNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/BotUpdatedBotViewNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/BotAnimatedBotViewNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Notifications/BotRanCommandsOnBotViewNotification.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Consumers/ApiGatewayConsumerAsync.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/QuestionConsumer.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/MySqlDbContext.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/Startup.cs" />
+        <option value="$PROJECT_DIR$/HostVersion/RawDbContext.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PCRlkld8lS5nzopqskAeL8tOvs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataKeeperPeer/FileStorage" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.HostVersion: IIS Express">
+    <configuration name="AsemanDebug" type="CompoundRunConfigurationType">
+      <toRun name="ApiGateway" type="DotNetProject" />
+      <toRun name="DataIndexerPeer" type="DotNetProject" />
+      <toRun name="DataKeeperPeer" type="DotNetProject" />
+      <toRun name="SuperPeer" type="DotNetProject" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AsemanExec" type="CompoundRunConfigurationType">
+      <toRun name="DataKeeperPeer" type="RunExe" />
+      <toRun name="SuperPeer" type="RunExe" />
+      <toRun name="DataIndexerPeer" type="RunExe" />
+      <toRun name="ApiGateway" type="RunExe" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AsemanMiniDebug" type="CompoundRunConfigurationType">
+      <toRun name="ApiGateway" type="DotNetProject" />
+      <toRun name="DataKeeperPeer" type="DotNetProject" />
+      <toRun name="DataIndexerPeer" type="DotNetProject" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AsemanPublish" type="CompoundRunConfigurationType">
+      <toRun name="DataKeeperPeer" type="RunExe" />
+      <toRun name="SuperPeer" type="RunExe" />
+      <toRun name="DataIndexerPeer" type="RunExe" />
+      <toRun name="ApiGateway" type="RunExe" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="ApiGateway" type="DotNetProject" />
+      <toRun name="DataKeeperPeer" type="DotNetProject" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGateway" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/Publish/ApiGateway" target_framework="netcoreapp2.2" uuid_high="-5883327583020561452" uuid_low="-8129398153660803461" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataIndexerPeer" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/Publish/DataIndexerPeer" target_framework="netcoreapp2.2" uuid_high="7799189854178201533" uuid_low="-5252988819678719482" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataKeeperPeer" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/Publish/DataKeeperPeer" target_framework="netcoreapp2.2" uuid_high="-4904125837109475626" uuid_low="-8052478154657893537" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperPeer" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/Publish/SuperPeer" target_framework="netcoreapp2.2" uuid_high="282021063217335747" uuid_low="-6618924324257830528" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="linux-x64" target_folder="$PROJECT_DIR$/Publish" target_framework="netcoreapp2.2" uuid_high="-5883327583020561452" uuid_low="-8129398153660803461" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGateway" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ApiGateway/bin/Debug/netcoreapp2.2/ApiGateway.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ApiGateway" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ApiGateway/ApiGateway.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DataIndexerPeer" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DataIndexerPeer/bin/Debug/netcoreapp2.2/DataIndexerPeer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataIndexerPeer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DataIndexerPeer/DataIndexerPeer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="0" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DataKeeperPeer" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DataKeeperPeer/bin/Debug/netcoreapp2.2/DataKeeperPeer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataKeeperPeer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DataKeeperPeer/DataKeeperPeer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="0" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SuperPeer" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SuperPeer/bin/Debug/netcoreapp2.2/SuperPeer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SuperPeer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SuperPeer/SuperPeer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="0" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="HostVersion: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/HostVersion/HostVersion.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="HostVersion" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ApiGateway" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Publish/ApiGateway/ApiGateway.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Publish/ApiGateway" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataIndexerPeer" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Publish/DataIndexerPeer/DataIndexerPeer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Publish/DataIndexerPeer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataKeeperPeer" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Publish/DataKeeperPeer/DataKeeperPeer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Publish/DataKeeperPeer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperPeer" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Publish/SuperPeer/SuperPeer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Publish/SuperPeer" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Executable.DataKeeperPeer" />
+      <item itemvalue=".NET Executable.DataIndexerPeer" />
+      <item itemvalue=".NET Executable.SuperPeer" />
+      <item itemvalue=".NET Executable.ApiGateway" />
+      <item itemvalue=".NET Launch Settings Profile.HostVersion: IIS Express" />
+      <item itemvalue=".NET Project.ApiGateway" />
+      <item itemvalue=".NET Project.DataIndexerPeer" />
+      <item itemvalue=".NET Project.DataKeeperPeer" />
+      <item itemvalue=".NET Project.SuperPeer" />
+      <item itemvalue="Compound.AsemanMiniDebug" />
+      <item itemvalue="Compound.AsemanExec" />
+      <item itemvalue="Compound.AsemanPublish" />
+      <item itemvalue="Compound.AsemanDebug" />
+      <item itemvalue="Publish to folder.ApiGateway" />
+      <item itemvalue="Publish to folder.DataIndexerPeer" />
+      <item itemvalue="Publish to folder.DataKeeperPeer" />
+      <item itemvalue="Publish to folder.SuperPeer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile.HostVersion: IIS Express" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93911e67-3c13-45ce-a567-7a7454735f56" name="Default" comment="" />
+      <created>1552916740236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552916740236</updated>
+      <workItem from="1552916742245" duration="12317000" />
+      <workItem from="1552977934350" duration="1613000" />
+      <workItem from="1552980171174" duration="16657000" />
+      <workItem from="1553149819113" duration="23775000" />
+      <workItem from="1553515551020" duration="9295000" />
+      <workItem from="1553594328053" duration="27406000" />
+      <workItem from="1553761788672" duration="19119000" />
+      <workItem from="1553838481907" duration="10644000" />
+      <workItem from="1553923845328" duration="14009000" />
+      <workItem from="1554035124076" duration="17783000" />
+      <workItem from="1554108852314" duration="15933000" />
+      <workItem from="1554218437389" duration="1516000" />
+      <workItem from="1554563693730" duration="2210000" />
+      <workItem from="1554567290655" duration="1870000" />
+      <workItem from="1554620656185" duration="960000" />
+      <workItem from="1557681344209" duration="5614000" />
+      <workItem from="1557857865037" duration="994000" />
+      <workItem from="1557994536393" duration="14119000" />
+      <workItem from="1558460325913" duration="3998000" />
+      <workItem from="1558554902058" duration="647000" />
+      <workItem from="1558586618506" duration="748000" />
+      <workItem from="1558611785310" duration="1592000" />
+      <workItem from="1558684355073" duration="1940000" />
+      <workItem from="1558764216120" duration="18937000" />
+      <workItem from="1559503454968" duration="643000" />
+      <workItem from="1559650042012" duration="16963000" />
+      <workItem from="1560095980371" duration="3057000" />
+      <workItem from="1560146411163" duration="9075000" />
+      <workItem from="1560229757284" duration="2329000" />
+      <workItem from="1560338236036" duration="15181000" />
+      <workItem from="1560372819200" duration="1955000" />
+      <workItem from="1560420802524" duration="13986000" />
+      <workItem from="1560452408961" duration="4529000" />
+      <workItem from="1560497781574" duration="8618000" />
+      <workItem from="1561917371520" duration="1751000" />
+      <workItem from="1563174836678" duration="3845000" />
+      <workItem from="1564655200313" duration="4540000" />
+      <workItem from="1564729485968" duration="18645000" />
+      <workItem from="1564813085560" duration="14756000" />
+      <workItem from="1564864261776" duration="599000" />
+      <workItem from="1564904646039" duration="10249000" />
+      <workItem from="1564921064888" duration="8793000" />
+      <workItem from="1564986137089" duration="1260000" />
+      <workItem from="1565003626796" duration="12603000" />
+      <workItem from="1565068040979" duration="6809000" />
+      <workItem from="1565082253012" duration="5366000" />
+      <workItem from="1565104176032" duration="54843000" />
+      <workItem from="1565376250325" duration="32541000" />
+      <workItem from="1565586922424" duration="40723000" />
+      <workItem from="1565728463458" duration="4909000" />
+      <workItem from="1565946167243" duration="618000" />
+      <workItem from="1565965915756" duration="634000" />
+      <workItem from="1565967000539" duration="17994000" />
+      <workItem from="1566472750906" duration="1208000" />
+      <workItem from="1566479029860" duration="498000" />
+      <workItem from="1566733035018" duration="131000" />
+      <workItem from="1568538737158" duration="3812000" />
+      <workItem from="1569860050256" duration="7723000" />
+      <workItem from="1570131196276" duration="905000" />
+      <workItem from="1570175332964" duration="2315000" />
+      <workItem from="1570301898554" duration="1939000" />
+      <workItem from="1570830860782" duration="1306000" />
+      <workItem from="1570890330828" duration="13793000" />
+      <workItem from="1571034265298" duration="1772000" />
+      <workItem from="1571039091785" duration="1355000" />
+      <workItem from="1571082616040" duration="3200000" />
+      <workItem from="1571303881305" duration="1214000" />
+      <workItem from="1571336075263" duration="612000" />
+      <workItem from="1571396013566" duration="7592000" />
+      <workItem from="1572164626813" duration="2177000" />
+      <workItem from="1572283014881" duration="1380000" />
+      <workItem from="1574947274678" duration="9800000" />
+      <workItem from="1575113967806" duration="963000" />
+      <workItem from="1575178108885" duration="20401000" />
+      <workItem from="1581233644824" duration="142000" />
+      <workItem from="1581239981034" duration="1025000" />
+      <workItem from="1598849482183" duration="10076000" />
+      <workItem from="1599294713671" duration="6236000" />
+    </task>
+    <task id="LOCAL-00001" summary="trying to setting up ticket server">
+      <created>1564864709542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564864709542</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trying to fix notification consumer">
+      <created>1564911759829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564911759829</updated>
+    </task>
+    <task id="LOCAL-00003" summary="trying to convert models to protobuf format.">
+      <created>1564950437101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564950437101</updated>
+    </task>
+    <task id="LOCAL-00004" summary="trying to convert models to protobuf format.">
+      <created>1564950603294</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564950603294</updated>
+    </task>
+    <task id="LOCAL-00005" summary="trying to convert models to protobuf format with protobuf-net">
+      <created>1565065796789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565065796789</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finished migration to kafka">
+      <created>1565480901786</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565480901786</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git ignore">
+      <created>1565989610869</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565989610869</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed bugs, edited desktop and some structures">
+      <created>1565989661594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565989661594</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed bugs, added new notifications">
+      <created>1566051449082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566051449082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="trying to setting up ticket server" />
+    <MESSAGE value="trying to fix notification consumer" />
+    <MESSAGE value="trying to convert models to protobuf format." />
+    <MESSAGE value="trying to convert models to protobuf format with protobuf-net" />
+    <MESSAGE value="finished migration to kafka" />
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="fixed bugs, edited desktop and some structures" />
+    <MESSAGE value="fixed bugs, added new notifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bugs, added new notifications" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="127" width="800" height="675" key="#Plugins" timestamp="1599057135090" />
+    <state x="395" y="127" width="800" height="675" key="#Plugins/1600.900" timestamp="1599057135090" />
+    <state x="160" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599057135090" />
+    <state x="160" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/1600.900" timestamp="1599057135090" />
+    <state x="498" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599057135090" />
+    <state x="498" y="271" key="#com.intellij.fileTypes.FileTypeChooser/1600.900" timestamp="1599057135090" />
+    <state x="583" y="166" key="FileChooserDialogImpl" timestamp="1599057135090" />
+    <state x="583" y="166" key="FileChooserDialogImpl/1600.900" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.bottom" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.bottom/1600.900" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.center" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.center/1600.900" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.left" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.left/1600.900" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.right" timestamp="1599057135090" />
+    <state width="1554" height="191" key="GridCell.Tab.0.right/1600.900" timestamp="1599057135090" />
+    <state x="355" y="145" key="RiderGenerateDialog" timestamp="1599057135090" />
+    <state x="355" y="145" key="RiderGenerateDialog/1600.900" timestamp="1599057135090" />
+    <state x="274" y="108" key="SettingsEditor" timestamp="1599057135090" />
+    <state x="274" y="108" key="SettingsEditor/1600.900" timestamp="1599057135090" />
+    <state x="479" y="166" key="Vcs.Push.Dialog" timestamp="1599057135090" />
+    <state x="479" y="166" key="Vcs.Push.Dialog/1600.900" timestamp="1599057135090" />
+    <state x="433" y="125" width="733" height="681" key="find.popup" timestamp="1599057164883">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="433" y="125" width="733" height="681" key="find.popup/1600.900" timestamp="1599057135090" />
+    <state x="433" y="125" width="733" height="681" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1599057164883" />
+    <state x="464" y="210" key="run.anything.popup" timestamp="1599057135090" />
+    <state x="464" y="210" key="run.anything.popup/1600.900" timestamp="1599057135090" />
+    <state x="463" y="218" width="672" height="678" key="search.everywhere.popup" timestamp="1599057135090" />
+    <state x="463" y="218" width="672" height="678" key="search.everywhere.popup/1600.900" timestamp="1599057135090" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+﻿using ProtoBuf;
+
+namespace HostVersion.Commands.Requests.Module
+{
+    [ProtoContract]
+    public class BotPermitModuleResponse : Response
+    {
+        
+    }
+}

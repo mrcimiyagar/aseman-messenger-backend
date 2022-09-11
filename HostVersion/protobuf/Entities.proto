@@ -1,0 +1,475 @@
+syntax = "proto3";
+
+package SharedArea.Models.Entities;
+
+message BaseUser {
+    int64 BaseUserId = 1;
+    string BaseUserType = 2;
+}
+
+message Session {
+    int64 SessionId = 1;
+    string Token = 2;
+    int64 BaseUserId = 3;
+    BaseUser BaseUser = 4;
+    bool Online = 5;
+    string ConnectionId = 6;
+    int64 Version = 7;
+}
+
+message App {
+    int64 AppId = 1;
+    string Title = 2;
+    string Token = 3;
+    int64 CreatorId = 4;
+    BaseUser Creator = 5;
+}
+
+message BaseFile {
+    int64 FileId = 1;
+    string FileType = 2;
+}
+
+message Photo {
+    int64 FileId = 1;
+    int64 Size = 2;
+    bool FileTransferFinished = 3;
+    bool IsPublic = 4;
+    bool AsRawFile = 5;
+    string Type = 6;
+    repeated FileTag FileTags = 7;
+    repeated FileUsage FileUsages = 8;
+    int64 UploaderId = 9;
+    BaseUser Uploader = 10;
+    int32 Width = 11;
+    int32 Height = 12;
+    bool IsAvatar = 13;
+}
+
+message Audio {
+    int64 FileId = 1;
+    int64 Size = 2;
+    bool FileTransferFinished = 3;
+    bool IsPublic = 4;
+    bool AsRawFile = 5;
+    string Type = 6;
+    repeated FileTag FileTags = 7;
+    repeated FileUsage FileUsages = 8;
+    int64 UploaderId = 9;
+    BaseUser Uploader = 10;
+    string Title = 11;
+    int64 Duration = 12;
+}
+
+message Video {
+    int64 FileId = 1;
+    int64 Size = 2;
+    bool FileTransferFinished = 3;
+    bool IsPublic = 4;
+    bool AsRawFile = 5;
+    string Type = 6;
+    repeated FileTag FileTags = 7;
+    repeated FileUsage FileUsages = 8;
+    int64 UploaderId = 9;
+    BaseUser Uploader = 10;
+    string Title = 11;
+    int64 Duration = 12;
+}
+
+message Document {
+    int64 FileId = 1;
+    int64 Size = 2;
+    bool FileTransferFinished = 3;
+    bool IsPublic = 4;
+    bool AsRawFile = 5;
+    string Type = 6;
+    repeated FileTag FileTags = 7;
+    repeated FileUsage FileUsages = 8;
+    int64 UploaderId = 9;
+    BaseUser Uploader = 10;
+    string Name = 11;
+}
+ 
+message FileTag {
+    int64 FileTagId = 1;
+    int64 FileId = 2;
+    BaseFile File = 3;
+    int64 TagId = 4;
+    Tag Tag = 5;
+}
+
+message Tag {
+    int64 TagId = 1;
+    string Title = 2;
+    repeated FileTag FileTags = 3;
+}
+
+message FileUsage {
+    int64 FileUsageId = 1;
+    int64 FileId = 2;
+    BaseFile File = 3;
+    int64 RoomId = 4;
+    BaseRoom Room = 5;
+    int32 FileUsageType = 6;
+}
+
+message BaseRoom {
+    int64 RoomId = 1;
+    string RoomType = 2;
+}
+
+message Complex {
+    int64 ComplexId = 1;
+    string Title = 2;
+    int64 Avatar = 3;
+    int32 Mode = 4;
+    repeated Membership Members = 5;
+    repeated Room Rooms = 6;
+    repeated SingleRoom SingleRooms = 7;
+    repeated Invite Invites = 8;
+    ComplexSecret ComplexSecret = 9;
+    int64 Version = 10;
+}
+
+message Workership {
+    int64 WorkershipId = 1;
+    int64 BotId = 2;
+    int64 RoomId = 3;
+    BaseRoom Room = 4;
+    int32 PosX = 5;
+    int32 PosY = 6;
+    int32 Width = 7;
+    int32 Height = 8;
+}
+
+message Message {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+}
+
+message Membership {
+    int64 MembershipId = 1;
+    int64 UserId = 2;
+    User User = 3;
+    int64 ComplexId = 4;
+    Complex Complex = 5;
+    int64 MemberAccessId = 6;
+    MemberAccess MemberAccess = 7;
+    int64 Version = 8;
+}
+
+message User {
+    int64 BaseUserId = 1;
+    string Title = 2;
+    int64 Avatar = 3;
+    repeated Session Sessions = 4;
+    string Type = 5;
+    int64 Version = 6;
+    repeated Membership Memberships = 7;
+    repeated Contact Contacts = 8;
+    repeated Contact Peereds = 9;
+    repeated Invite Invites = 10;
+    repeated BotCreation CreatedBots = 11;
+    repeated ModuleCreation CreatedModules = 12;
+    repeated BotSubscription SubscribedBots = 13;
+    repeated MessageSeen MessageSeens = 14;
+    repeated App Apps = 15;
+    UserSecret UserSecret = 16;
+}
+
+message UserSecret {
+    int64 UserSecretId = 1;
+    int64 HomeId = 2;
+    Complex Home = 3;
+    string Email = 4;
+    int64 UserId = 5;
+    User User = 6;
+    int64 Version = 7;
+}
+
+message MemberAccess {
+    int64 MemberAccessId = 1;
+    bool CanCreateMessage = 2;
+    bool CanSendInvite = 3;
+    bool CanModifyWorkers = 4;
+    bool CanUpdateProfiles = 5;
+    bool CanModifyAccess = 6;
+    int64 MembershipId = 7;
+    Membership Membership = 8;
+    int64 Version = 9;
+}
+
+message MessageSeen {
+    string MessageSeenId = 1;
+    int64 UserId = 2;
+    User User = 3;
+    int64 MessageId = 4;
+    Message Message = 5;
+}
+
+message Room {
+    int64 RoomId = 1;
+    string Title = 2;
+    int64 Avatar = 3;
+    int64 ComplexId = 4;
+    Complex Complex = 5;
+    repeated Workership Workers = 6;
+    repeated Message Messages = 7;
+    repeated FileUsage Files = 8;
+    string Type = 9;
+    Message LastAction = 10;
+    int64 Version = 11;
+}
+
+message SingleRoom {
+    int64 RoomId = 1;
+    string Title = 2;
+    int64 Avatar = 3;
+    int64 ComplexId = 4;
+    Complex Complex = 5;
+    repeated Workership Workers = 6;
+    repeated Message Messages = 7;
+    repeated FileUsage Files = 8;
+    string Type = 9;
+    Message LastAction = 10;
+    int64 Version = 11;
+    int64 User1Id = 12;
+    BaseUser User1 = 13;
+    int64 User2Id = 14;
+    BaseUser User2 = 15;
+}
+
+message Invite {
+    int64 InviteId = 1;
+    int64 ComplexId = 2;
+    Complex Complex = 3;
+    int64 UserId = 4;
+    User User = 5;
+    int64 Version = 6;
+}
+
+message ComplexSecret {
+    int64 ComplexSecretId = 1;
+    int64 ComplexId = 2;
+    Complex Complex = 3;
+    int64 AdminId = 4;
+    User Admin = 5;
+    int64 Version = 6;
+}
+
+message Contact {
+    int64 ContactId = 1;
+    int64 ComplexId = 2;
+    Complex Complex = 3;
+    int64 UserId = 4;
+    User User = 5;
+    int64 PeerId = 6;
+    User Peer = 7;
+    int64 Version = 8;
+}
+
+message Bot {
+    int64 BaseUserId = 1;
+    string Title = 2;
+    int64 Avatar = 3;
+    repeated Session Sessions = 4;
+    string Type = 5;
+    int64 Version = 6;
+    string Description = 7;
+    string ViewURL = 8;
+    BotSecret BotSecret = 9;
+    repeated Workership Workerships = 10;
+    repeated BotSubscription Subscriptions = 11;
+    repeated ModulePermission ModulePermissions = 12;
+}
+
+message BotSecret {
+    int64 BotSecretId = 1;
+    string Token = 2;
+    int64 CreatorId = 3;
+    User Creator = 4;
+    int64 BotId = 5;
+    Bot Bot = 6;
+}
+
+message BotCreation {
+    int64 BotCreationId = 1;
+    int64 BotId = 2;
+    Bot Bot = 3;
+    int64 CreatorId = 4;
+    User Creator = 5;
+}
+
+message BotSubscription {
+    int64 BotSubscriptionId = 1;
+    int64 BotId = 2;
+    Bot Bot = 3;
+    int64 SubscriberId = 4;
+    User Subscriber = 5;
+}
+
+message ModulePermission {
+    int64 ModulePermissionId = 1;
+    int64 ModuleId = 2;
+    Module Module = 3;
+    int64 BotId = 4;
+    Bot Bot = 5;
+}
+
+message Module {
+    int64 BaseUserId = 1;
+    string Title = 2;
+    int64 Avatar = 3;
+    repeated Session Sessions = 4;
+    string Type = 5;
+    int64 Version = 6;
+    string Description = 7;
+    repeated ModulePermission ModulePermissions = 8;
+    ModuleSecret ModuleSecret = 9;
+}
+
+message ModuleCreation {
+    int64 ModuleCreationId = 1;
+    int64 ModuleId = 2;
+    Module Module = 3;
+    int64 CreatorId = 4;
+    User Creator = 5;
+}
+
+message ModuleSecret {
+    int64 ModuleSecretId = 1;
+    int64 ModuleId = 2;
+    Module Module = 3;
+    int64 CreatorId = 4;
+    BaseUser Creator = 5;
+    string Token = 6;
+    string ServerAddress = 7;
+}
+
+message BotStoreBanner {
+    int64 BotStoreBannerId = 1;
+    int64 BotId = 2;
+    Bot Bot = 3;
+    string Title = 4;
+    string ImagePath = 5;
+}
+
+message BotStoreBot {
+    int64 BotStoreBotId = 1;
+    int64 BotId = 2;
+    Bot Bot = 3;
+    int64 BotStoreSectionId = 4;
+    BotStoreSection BotStoreSection = 5;
+}
+
+message BotStoreHeader {
+    int64 BotStoreHeaderId = 1;
+    repeated BotStoreBanner Banners = 2;
+}
+
+message BotStoreSection {
+    int64 BotStoreSectionId = 1;
+    repeated BotStoreBot BotStoreBots = 2;
+}
+
+message Pending {
+    int64 PendingId = 1;
+    string Email = 2;
+    string VerifyCode = 3;
+}
+
+message TextMessage {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+    string Text = 11;
+}
+
+message PhotoMessage {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+    int64 PhotoId = 11;
+    Photo Photo = 12;
+}
+
+message AudioMessage {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+    int64 AudioId = 11;
+    Audio Audio = 12;
+}
+
+message VideoMessage {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+    int64 VideoId = 11;
+    Video Video = 12;
+}
+
+message ServiceMessage {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+    string Text = 11;
+}
+
+message Version {
+    int64 MessageId = 1;
+    int64 Time = 2;
+    string Type = 3;
+    int64 AuthorId = 4;
+    BaseUser Author = 5;
+    int64 RoomId = 6;
+    BaseRoom Room = 7;
+    repeated MessageSeen MessageSeens = 8;
+    bool SeenByMe = 9;
+    int64 SeenCount = 10;
+    string VersionId = 11;
+    int64 Number = 12;
+}

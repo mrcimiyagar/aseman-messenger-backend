@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d756785-72f7-4e15-9518-4807045514de" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1560369889541" expanded="false" signature="6:77" ph="..." />
+                <marker date="1560369889541" expanded="true" signature="104:625" ph="{...}" />
+                <marker date="1560369889541" expanded="true" signature="131:623" ph="{...}" />
+                <marker date="1560369889541" expanded="true" signature="187:617" ph="{...}" />
+                <marker date="1560369889541" expanded="true" signature="342:483" ph="{...}" />
+                <marker date="1560369889541" expanded="true" signature="516:594" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DataStructures/ImageNetData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataStructures/ImageNetPrediction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/YoloParser/YoloWinMlParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnnxModelScorer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OnnxModelScorer.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yolo" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yolo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yolo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ObjectDetection" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yolo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ObjectDetection" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yolo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ObjectDetection" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="images" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="yolo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ObjectDetection" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="YoloModel" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/ObjectDetection.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ObjectDetection.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d756785-72f7-4e15-9518-4807045514de" name="Default" comment="" />
+      <created>1560367957521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560367957521</updated>
+      <workItem from="1560367958856" duration="2023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2023000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32905984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/images/image3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/image2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/ImageNetData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560343880000" expanded="false" signature="6:108" ph="..." />
+            <marker date="1560343880000" expanded="true" signature="135:446" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="167:290" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="347:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/ImageNetPrediction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560343880000" expanded="true" signature="51:215" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="89:213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YoloParser/YoloWinMlParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2479">
+          <folding>
+            <marker date="1560343880000" expanded="false" signature="6:88" ph="..." />
+            <marker date="1560343880000" expanded="true" signature="115:6973" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="143:6971" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="627:730" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="792:1065" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="1167:3846" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="1412:3809" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="1481:3795" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="1560:3777" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="3430:3753" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="3958:5475" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="4473:5436" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="4525:5422" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="4776:5330" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="4844:5308" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="5019:5282" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="5548:6132" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="6190:6545" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="6213:6462" ph="/* YOLO outputs a tensor that has a shape of 125x13x13, which ... */" />
+            <marker date="1560343880000" expanded="true" signature="6589:6689" ph="{...}" />
+            <marker date="1560343880000" expanded="true" signature="6738:6965" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnnxModelScorer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="57" column="76" selection-start-line="57" selection-start-column="76" selection-end-line="57" selection-end-column="76" />
+          <folding>
+            <marker date="1560368761755" expanded="false" signature="6:103" ph="..." />
+            <marker date="1560368761755" expanded="true" signature="130:3077" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="158:3075" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="535:687" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="727:842" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="887:1015" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="1044:1157" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="1257:2205" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="2309:2780" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="2647:2770" ph="{...}" />
+            <marker date="1560368761755" expanded="true" signature="2829:3069" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1560369889541" expanded="false" signature="6:77" ph="..." />
+            <marker date="1560369889541" expanded="true" signature="104:625" ph="{...}" />
+            <marker date="1560369889541" expanded="true" signature="131:623" ph="{...}" />
+            <marker date="1560369889541" expanded="true" signature="187:617" ph="{...}" />
+            <marker date="1560369889541" expanded="true" signature="342:483" ph="{...}" />
+            <marker date="1560369889541" expanded="true" signature="516:594" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
