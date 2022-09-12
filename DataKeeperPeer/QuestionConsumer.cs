@@ -2067,8 +2067,8 @@ namespace DataKeeperPeer
             }
         }
 
-        private const string EmailAddress = "keyhan.mohammadi1997@gmail.com";
-        private const string EmailPassword = "2&b165sf4j)684tkt87El^o9w68i87u6s*4h48#98aq";
+        private const string EmailAddress = "-";
+        private const string EmailPassword = "-";
 
         public async Task<RegisterResponse> AnswerQuestion(AnswerContext<RegisterRequest> context)
         {
