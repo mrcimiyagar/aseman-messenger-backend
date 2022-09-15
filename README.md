@@ -1,2 +1,2 @@
 ## Aseman Services Backend
-this is Aseman Services Backend repository.
+### This is Aseman Services Backend repository. It is developed based on mix of super-peer and fog computing powered by protobuf protocol and apache kafka asynchronous messaging engine. it has same architecture as my cloud builder framework including edge nodes as main processing peers, super peers as each regions bridge to the whole network and other peers in other regions . 
